@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 <h1 align="center">Hi, I am Waleed! </h1>
 
 ## About me
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I love to write documentation for software products so that its easier for others to understand them <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> I believe in learning by building projects and being consistent in what I do. <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> It's not that I hate other languages but I like Java more 😉<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> An aspiring full stack Web developer. <br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> Hoping to bring a positive change into this world ✨<br>
-<img height="20" src="https://acegif.com/wp-content/uploads/2020/b72nv6/partyparrt-30.gif"> When I'm not coding, I am probably reading, watching movies/tv series, exploring new concepts, or working on what to do next. 
+=> I love to write documentation for software products so that its easier for others to understand them <br>
+=> I believe in learning by building projects and being consistent in what I do. <br>
+=> It's not that I hate other languages but I like Java more 😉<br>
+=> An aspiring full stack Web developer. <br>
+=> Hoping to bring a positive change into this world ✨<br>
+=> When I'm not coding, I am probably reading, watching movies/tv series, exploring new concepts, or working on what to do next. 
 
 <br>
 
