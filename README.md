@@ -20,9 +20,9 @@ Here are some ideas to get you started:
 => I love to write documentation for software products so that its easier for others to understand them <br>
 => I believe in learning by building projects and being consistent in what I do. <br>
 => It's not that I hate other languages but I like Java more 😉<br>
-=> An aspiring full stack Web developer. <br>
+=> Full stack Web developer. <br>
 => Hoping to bring a positive change into this world ✨<br>
-=> When I'm not coding, I am probably reading, watching movies/tv series, exploring new concepts, or working on what to do next. 
+=> Love reading and watching movies in my spare time 
 
 <br>
 
